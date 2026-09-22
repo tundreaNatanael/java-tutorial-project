@@ -1,3 +1,6 @@
+import indexer.WordIndexer;
+import io.TextFileReader;
+
 import java.io.IOException;
 
 public class Main {
